@@ -1,5 +1,6 @@
 // Database connection utility.
 // Provides a function to establish a MongoDB connection using Mongoose.
+//Comment
 const mongoose = require("mongoose");
 
 // Attempts to connect to MongoDB with the given URI.
